@@ -1,0 +1,101 @@
+[
+    {
+        "id" : 0,
+        "name" : "Arroz Extra BELL'S Bolsa",
+        "brand" : "BELL'S",
+        "unit" : "Bolsa 5kg",
+        "price" : 15.90,
+        "lastprice" : 20.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/550668-184-184/19073.jpg?v=637425701338130000"
+    },
+    {
+        "id" : 1,
+        "name" : "Aceite de Soya SOYA Botella",
+        "brand" : "SOYA",
+        "unit" : "Botella 900ml",
+        "price" : 7.19,
+        "lastprice" :10.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/4159435-184-184/107285.jpg?v=637750921117170000"
+    },
+    {
+        "id" : 2,
+        "name" : "Aceite Vegetal BELL'S Galonera 5L",
+        "brand" : "BELL'S",
+        "unit" : "Galonera 5L",
+        "price" : 46.90,
+        "lastprice" : 60.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/561840-184-184/20193771.jpg?v=637427445860370000"
+    },
+    {
+        "id" : 3,
+        "name" : "Trozos de Atún Primor Lata 170 g",
+        "brand" : "PRIMOR",
+        "unit" : "Lata 170 gr",
+        "price" : 5.29,
+        "lastprice" : 5.79,
+        "image" : "https://wongfood.vteximg.com.br/arquivos/ids/182476/560749-01-73416.jpg?v=636453228949370000"
+    },
+    {
+        "id" : 4,
+        "name" : "Aceite Vegetal BELL'S Galonera 5L",
+        "brand" : "BELL'S",
+        "unit" : "Galonera 5L",
+        "price" : 46.90,
+        "lastprice" : 60.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/561840-184-184/20193771.jpg?v=637427445860370000"
+    },
+    {
+        "id" : 5,
+        "name" : "Aceite Vegetal BELL'S Galonera 5L",
+        "brand" : "BELL'S",
+        "unit" : "Galonera 5L",
+        "price" : 46.90,
+        "lastprice" : 60.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/561840-184-184/20193771.jpg?v=637427445860370000"
+    },
+    {
+        "id" : 6,
+        "name" : "Aceite Vegetal BELL'S Galonera 5L",
+        "brand" : "BELL'S",
+        "unit" : "Galonera 5L",
+        "price" : 46.90,
+        "lastprice" : 60.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/561840-184-184/20193771.jpg?v=637427445860370000"
+    },
+    {
+        "id" : 7,
+        "name" : "Aceite Vegetal BELL'S Galonera 5L",
+        "brand" : "BELL'S",
+        "unit" : "Galonera 5L",
+        "price" : 46.90,
+        "lastprice" : 60.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/561840-184-184/20193771.jpg?v=637427445860370000"
+    },
+    {
+        "id" : 8,
+        "name" : "Aceite Vegetal BELL'S Galonera 5L",
+        "brand" : "BELL'S",
+        "unit" : "Galonera 5L",
+        "price" : 46.90,
+        "lastprice" : 60.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/561840-184-184/20193771.jpg?v=637427445860370000"
+    },
+    {
+        "id" : 9,
+        "name" : "Aceite Vegetal BELL'S Galonera 5L",
+        "brand" : "BELL'S",
+        "unit" : "Galonera 5L",
+        "price" : 46.90,
+        "lastprice" : 60.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/561840-184-184/20193771.jpg?v=637427445860370000"
+    },
+    {
+        "id" : 10,
+        "name" : "Arroz Extra BELL'S Bolsa",
+        "brand" : "BELL'S",
+        "unit" : "Bolsa 5kg",
+        "price" : 15.90,
+        "lastprice" : 20.00,
+        "image" : "https://plazavea.vteximg.com.br/arquivos/ids/550668-184-184/19073.jpg?v=637425701338130000"
+    }
+]
